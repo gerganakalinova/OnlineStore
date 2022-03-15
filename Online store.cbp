@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="Online store" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/Online store" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/Online store" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+		</Compiler>
+		<Unit filename="Books.cpp" />
+		<Unit filename="Books.hpp" />
+		<Unit filename="Customer.cpp" />
+		<Unit filename="Customer.hpp" />
+		<Unit filename="Electronics.cpp" />
+		<Unit filename="Electronics.hpp" />
+		<Unit filename="Games.cpp" />
+		<Unit filename="Games.hpp" />
+		<Unit filename="Main.cpp" />
+		<Unit filename="Product.cpp" />
+		<Unit filename="Product.hpp" />
+		<Unit filename="SearchProduct.cpp" />
+		<Unit filename="SearchProduct.hpp" />
+		<Unit filename="ShoppingCart.cpp" />
+		<Unit filename="ShoppingCart.hpp" />
+		<Unit filename="Store.cpp" />
+		<Unit filename="Store.hpp" />
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

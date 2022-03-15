@@ -1,0 +1,235 @@
+# depslib dependency file v1.0
+1590436051 source:c:\users\user\desktop\online store\main.cpp
+	<iostream>
+	"Customer.hpp"
+	"Product.hpp"
+	"Books.hpp"
+	"Games.hpp"
+	"Electronics.hpp"
+	"SearchProduct.hpp"
+	"ShoppingCart.hpp"
+	"Store.hpp"
+	<string>
+	<vector>
+
+1590432299 c:\users\user\desktop\online store\customer.hpp
+	<iostream>
+	<string>
+
+1590432943 source:c:\users\user\desktop\online store\customer.cpp
+	<iostream>
+	<string>
+	"Customer.hpp"
+
+1590432194 source:c:\users\user\desktop\online store\product.cpp
+	<iostream>
+	<string>
+	"Product.hpp"
+
+1590235971 c:\users\user\desktop\online store\product.hpp
+	<iostream>
+	<string>
+
+1590432140 source:c:\users\user\desktop\online store\books.cpp
+	<iostream>
+	<string>
+	"Books.hpp"
+
+1590432261 c:\users\user\desktop\online store\books.hpp
+	<iostream>
+	<string>
+	"Product.hpp"
+
+1590432174 source:c:\users\user\desktop\online store\electronics.cpp
+	<iostream>
+	<string>
+	"Electronics.hpp"
+
+1590332226 c:\users\user\desktop\online store\electronics.hpp
+	<iostream>
+	<string>
+	"Product.hpp"
+
+1590432183 source:c:\users\user\desktop\online store\games.cpp
+	<iostream>
+	<string>
+	"Games.hpp"
+
+1590332222 c:\users\user\desktop\online store\games.hpp
+	<iostream>
+	<string>
+	"Product.hpp"
+
+1590432203 source:c:\users\user\desktop\online store\searchproduct.cpp
+	<iostream>
+	<string>
+	<vector>
+	"SearchProduct.hpp"
+
+1590332316 c:\users\user\desktop\online store\searchproduct.hpp
+	<iostream>
+	<string>
+	<vector>
+
+1590432225 source:c:\users\user\desktop\online store\shoppingcart.cpp
+	<iostream>
+	<string>
+	<vector>
+	"ShoppingCart.hpp"
+	"Product.hpp"
+	"Books.hpp"
+	"Games.hpp"
+	"Electronics.hpp"
+	"Store.hpp"
+
+1590432777 c:\users\user\desktop\online store\shoppingcart.hpp
+	<iostream>
+	<string>
+	<vector>
+	"Product.hpp"
+	"Books.hpp"
+	"Games.hpp"
+	"Electronics.hpp"
+	"Store.hpp"
+
+1590435081 source:c:\users\user\desktop\online store\store.cpp
+	<iostream>
+	<string>
+	<vector>
+	<algorithm>
+	"Product.hpp"
+	"Customer.hpp"
+	"Store.hpp"
+	"Books.hpp"
+	"Games.hpp"
+	"Electronics.hpp"
+	"SearchProduct.hpp"
+
+1590436051 c:\users\user\desktop\online store\store.hpp
+	<iostream>
+	<string>
+	<vector>
+	"Product.hpp"
+	"Customer.hpp"
+	"Books.hpp"
+	"Games.hpp"
+	"Electronics.hpp"
+	"SearchProduct.hpp"
+
+1647353554 source:c:\users\user\desktop\fmi\курс1, семестър2\ООП\online store\books.cpp
+	<iostream>
+	<string>
+	"Books.hpp"
+
+1590428661 c:\users\user\desktop\fmi\курс1, семестър2\ООП\online store\books.hpp
+	<iostream>
+	<string>
+	"Product.hpp"
+
+1647353554 c:\users\user\desktop\fmi\курс1, семестър2\ООП\online store\product.hpp
+	<iostream>
+	<string>
+
+1590429343 source:c:\users\user\desktop\fmi\курс1, семестър2\ООП\online store\customer.cpp
+	<iostream>
+	<string>
+	"Customer.hpp"
+
+1590428699 c:\users\user\desktop\fmi\курс1, семестър2\ООП\online store\customer.hpp
+	<iostream>
+	<string>
+
+1647353554 source:c:\users\user\desktop\fmi\курс1, семестър2\ООП\online store\electronics.cpp
+	<iostream>
+	<string>
+	"Electronics.hpp"
+
+1590328626 c:\users\user\desktop\fmi\курс1, семестър2\ООП\online store\electronics.hpp
+	<iostream>
+	<string>
+	"Product.hpp"
+
+1647353554 source:c:\users\user\desktop\fmi\курс1, семестър2\ООП\online store\games.cpp
+	<iostream>
+	<string>
+	"Games.hpp"
+
+1590328622 c:\users\user\desktop\fmi\курс1, семестър2\ООП\online store\games.hpp
+	<iostream>
+	<string>
+	"Product.hpp"
+
+1647353601 source:c:\users\user\desktop\fmi\курс1, семестър2\ООП\online store\product.cpp
+	<iostream>
+	<string>
+	"Product.hpp"
+
+1590428603 source:c:\users\user\desktop\fmi\курс1, семестър2\ООП\online store\searchproduct.cpp
+	<iostream>
+	<string>
+	<vector>
+	"SearchProduct.hpp"
+
+1590328716 c:\users\user\desktop\fmi\курс1, семестър2\ООП\online store\searchproduct.hpp
+	<iostream>
+	<string>
+	<vector>
+
+1647353554 source:c:\users\user\desktop\fmi\курс1, семестър2\ООП\online store\shoppingcart.cpp
+	<iostream>
+	<string>
+	<vector>
+	"ShoppingCart.hpp"
+	"Product.hpp"
+	"Books.hpp"
+	"Games.hpp"
+	"Electronics.hpp"
+	"Store.hpp"
+
+1590429177 c:\users\user\desktop\fmi\курс1, семестър2\ООП\online store\shoppingcart.hpp
+	<iostream>
+	<string>
+	<vector>
+	"Product.hpp"
+	"Books.hpp"
+	"Games.hpp"
+	"Electronics.hpp"
+	"Store.hpp"
+
+1590432451 c:\users\user\desktop\fmi\курс1, семестър2\ООП\online store\store.hpp
+	<iostream>
+	<string>
+	<vector>
+	"Product.hpp"
+	"Customer.hpp"
+	"Books.hpp"
+	"Games.hpp"
+	"Electronics.hpp"
+	"SearchProduct.hpp"
+
+1647353798 source:c:\users\user\desktop\fmi\курс1, семестър2\ООП\online store\store.cpp
+	<iostream>
+	<string>
+	<vector>
+	<algorithm>
+	"Product.hpp"
+	"Customer.hpp"
+	"Store.hpp"
+	"Books.hpp"
+	"Games.hpp"
+	"Electronics.hpp"
+	"SearchProduct.hpp"
+
+1647353554 source:c:\users\user\desktop\fmi\курс1, семестър2\ООП\online store\main.cpp
+	<iostream>
+	"Customer.hpp"
+	"Product.hpp"
+	"Books.hpp"
+	"Games.hpp"
+	"Electronics.hpp"
+	"SearchProduct.hpp"
+	"ShoppingCart.hpp"
+	"Store.hpp"
+	<string>
+	<vector>
+
